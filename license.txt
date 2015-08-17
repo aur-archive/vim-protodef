@@ -1,0 +1,4 @@
+Copyright: The VIM LICENSE applies to protodef.vim, and protodef.txt
+	   (see |copyright|) except use "protodef" instead of "Vim".
+	   No warranty, express or implied.
+	   Use At-Your-Own-Risk!
